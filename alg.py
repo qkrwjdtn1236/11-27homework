@@ -54,7 +54,7 @@ def VertialHorizontal(n,plans):
     x,y = 1,1
 
     dx = [0,0,-1,1]
-    xy = [-1,1,0,0]
+    dy = [-1,1,0,0]
 
     move_types = ['L','R','U','D']
 

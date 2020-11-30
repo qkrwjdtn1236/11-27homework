@@ -1,4 +1,6 @@
 import alg
 
-print(alg.money(1260))
+money = int(input())
+
+print(alg.money(money))
 
